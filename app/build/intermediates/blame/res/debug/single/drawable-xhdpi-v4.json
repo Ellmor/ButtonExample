@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\nezi2\\StudioProjects\\ButtonExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\nezi2\\StudioProjects\\ButtonExample\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
         "merged": "C:\\Users\\makn\\AndroidStudioProjects\\course2016\\ButtonExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
         "source": "C:\\Users\\makn\\AndroidStudioProjects\\course2016\\ButtonExample\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
     }
